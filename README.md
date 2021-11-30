@@ -11,9 +11,6 @@ No LabEcommerce você encontrará os melhores produtos para sua viagem espacial.
 
 ## Créditos
 - [Rafael N. Silva](https://github.com/rafansilva) (Developer)
-- [Rafael Bento](https://github.com/rafaelbentoti) (Developer)
-- [Guilherme Henrique](https://github.com/Guilherme-Jesus) (Developer)
-- [Labenu](https://www.labenu.com.br/) (Turma Lovalace)
 
 
 
